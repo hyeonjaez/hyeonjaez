@@ -1,17 +1,22 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
-    <div style="text-align: left; margin-bottom: 20px;">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hello%20I'm%20Jaehyeon🙋‍♂️&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div style="text-align: left; margin-bottom: 40px;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Introduce Myself</h2>
+    <div style="text-align: left; margin-bottom: 30px;">
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Introduce Myself</h2>
         <div style="font-weight: 700; font-size: 15px; color: #282d33;">
-            안녕하세요 성장에 굶주려 있는 개발자 정재현입니다
+            안녕하세요 성장을 갈망하는 개발자 정재현입니다
+        </div>
+        <div style="font-weight: 700; font-size: 15px; color: #282d33;">
+            <a href="https://ec-choi.tistory.com/5">기사 보기</a>
+        </div>
+    </div>
+    <div style ="text-align: left; margin-bottom:40px">
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Blog Posts</h3>
+        <div style="font-weight: 700; font-size: 15px; color: #282d33;">
+            <a href="https://hyeonni.tistory.com/">블로그 링크</a>
         </div>
     </div>
     <div style="text-align: left; margin-bottom: 40px;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
-        <br>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 6px;">
             <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
             <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -29,9 +34,8 @@
         </div>
     </div>
     <div style="text-align: left; margin-bottom: 40px;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
-        <br>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+        <div style="display: flex; gap: 6px; flex-wrap: wrap;">
             <a href="https://www.instagram.com/fiat._.lux_h?igsh=MXdyMnZ5bWtnOTV4dg%3D%3D&utm_source=qr">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
             </a>
@@ -41,16 +45,16 @@
             <a href="mailto:jkjk002242@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
             </a>
-        </div>
-        <br>
-        <div style="margin-top: 20px;">
             <a href="https://hits.seeyoufarm.com">
                 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
             </a>
         </div>
     </div>
+    <div style ="text-align: left; margin-bottom: 40px;">
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Education</h2>
+    </div>
     <div style="text-align: left; margin-bottom: 40px;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
         <div style="margin-bottom: 20px;">
             <a href="https://solved.ac/profile/jkjk0022">
                 <img src="http://mazassumnida.wtf/api/generate_badge?boj=jkjk0022">
