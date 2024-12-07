@@ -35,6 +35,6 @@
 - NHN Academy 3 2023.09 ~ 2024.03
 - SSAFY 12 2024.07 ~ PRESENT
 
-### 🏅 Stats
-
+### 🏅 Awards
+- 2024 제 13회 SW개발 공모전 [피우다 프로젝트] 장려상
 </div>
