@@ -37,4 +37,8 @@
 
 ### 🏅AWARDS
 - 2024 제 13회 SW개발 공모전 [피우다 프로젝트] 장려상
+
+### 📝PUBLICATIONS
+- **2022 한국정보통신학회 춘계종합학술대회**  
+  [중고차 가격 예측을 위한 영향요인 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11078053)
 </div>
