@@ -5,7 +5,7 @@
 
 [기사 보기](https://ec-choi.tistory.com/5)
 
-### POSTS
+### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
 
 ### 🛠️ Tech Stacks
