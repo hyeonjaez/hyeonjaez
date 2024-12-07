@@ -1,19 +1,13 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
-
-    <!-- Header Image -->
     <div style="text-align: left; margin-bottom: 20px;">
         <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hello%20I'm%20Jaehyeon🙋‍♂️&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
-
-    <!-- Introduce Myself -->
     <div style="text-align: left; margin-bottom: 40px;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Introduce Myself</h2>
         <div style="font-weight: 700; font-size: 15px; color: #282d33;">
             안녕하세요 성장에 굶주려 있는 개발자 정재현입니다
         </div>
     </div>
-
-    <!-- Tech Stacks -->
     <div style="text-align: left; margin-bottom: 40px;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
         <br>
@@ -34,8 +28,6 @@
             <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
         </div>
     </div>
-
-    <!-- Contact Me -->
     <div style="text-align: left; margin-bottom: 40px;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
         <br>
@@ -57,8 +49,6 @@
             </a>
         </div>
     </div>
-
-    <!-- Stats -->
     <div style="text-align: left; margin-bottom: 40px;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
         <div style="margin-bottom: 20px;">
