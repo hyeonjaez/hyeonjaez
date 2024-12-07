@@ -1,7 +1,5 @@
-<div style="max-width: 800px; margin: 0 auto; padding: 0px;">
-
-### Introduce Myself
-성장을 갈망하는 개발자 정재현입니다.
+### 👋 Introduce Myself
+#### 성장을 갈망하는 개발자 정재현입니다.
 [기사 보기](https://ec-choi.tistory.com/5)
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yummy-herring-c7a.notion.site/15f0e796f1ef4dbfa763782121cbb375)
@@ -41,4 +39,3 @@
 ### 📝PUBLICATIONS
 - **2022 한국정보통신학회 춘계종합학술대회**  
   [중고차 가격 예측을 위한 영향요인 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11078053)
-</div>
