@@ -1,8 +1,7 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 0px;">
 
 ### Introduce Myself
-안녕하세요 성장을 갈망하는 개발자 정재현입니다.
-
+성장을 갈망하는 개발자 정재현입니다.
 [기사 보기](https://ec-choi.tistory.com/5)
 
 ### Blog Posts
