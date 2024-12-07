@@ -1,6 +1,5 @@
 ### 👋 Introduce Myself
-#### 성장을 갈망하는 개발자 정재현입니다.
-[기사 보기](https://ec-choi.tistory.com/5)
+#### 성장을 갈망하는 개발자 정재현입니다. [기사 보기](https://ec-choi.tistory.com/5)
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yummy-herring-c7a.notion.site/15f0e796f1ef4dbfa763782121cbb375)
 ### Blog Posts
