@@ -6,6 +6,8 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
 - [[Solitour] 성능 vs. 코드 가독성의 갈림길](https://hyeonni.tistory.com/90)
 - [[Solitour] 비용과 성능의 트레이드오프](https://hyeonni.tistory.com/101)
+- [[Spring Boot] Spring Boot 에서 Mysql 설정 값들 및 schema.sql, data.sql 초기화](https://hyeonni.tistory.com/84)
+- [[Java] 새로 도입된 Record 무엇인가?](https://hyeonni.tistory.com/72)
 
 ### 🛠️ Tech Stacks
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
