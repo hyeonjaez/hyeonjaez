@@ -4,6 +4,8 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yummy-herring-c7a.notion.site/15f0e796f1ef4dbfa763782121cbb375)
 ### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
+- [[Solitour] 성능 vs. 코드 가독성의 갈림길](https://hyeonni.tistory.com/90)
+- [[Solitour] 비용과 성능의 트레이드오프](https://hyeonni.tistory.com/101)
 
 ### 🛠️ Tech Stacks
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
