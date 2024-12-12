@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis">
 </div>
 
-### 🧑‍💻 Contact me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fiat._.lux_h?igsh=MXdyMnZ5bWtnOTV4dg%3D%3D&utm_source=qr)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jkjk002242@gmail.com) [![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 ### 📖 EDUCATION
 - **NHN Academy 3 `2023.09` ~ `2024.03`**
@@ -50,3 +46,5 @@
 ### 📝 PUBLICATIONS
 - **2022 한국정보통신학회 춘계종합학술대회**  
   [중고차 가격 예측을 위한 영향요인 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11078053)
+
+[![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
