@@ -1,5 +1,10 @@
-### 👋 Introduce Myself
-#### 성장을 갈망하는 개발자 정재현입니다. [기사 보기](https://ec-choi.tistory.com/5)
+## 🌱 백엔드 개발자 정재현 입니다!
+#### 성장을 갈망하는 개발자입니다. [기사 보기](https://ec-choi.tistory.com/5)
+- **스스로의 지식을 일반화하여 많은 사람들이 이해하기 쉽도록 전달하는 과정**에서 즐거움과 성취감을 느낍니다.
+- 나의 코드는 **지식을 담은 일종의 문서화**라고 생각하고 작성합니다.
+- 내 코드를 읽는 사람들이 잘 이해할 수 있도록 **가독성**과 **명확성**을 신경 쓰고 적극적으로 관리하려고 노력합니다.
+- **함께**의 힘을 알고, 소통과 효율성의 긍정적 관계를 믿는 개발자입니다.
+
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1592c07d0e9980539ca5c2a69727ab20)
 ### Blog Posts
@@ -11,7 +16,8 @@
 - [[Spring Boot] Spring Boot 에서 Mysql 설정 값들 및 schema.sql, data.sql 초기화](https://hyeonni.tistory.com/84)
 - [[Java] 새로 도입된 Record 무엇인가?](https://hyeonni.tistory.com/72)
 
-### 🛠️ Tech Stacks
+### 🛠️ **Tech Stacks**
+
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white" alt="Apache Tomcat">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="Amazon AWS">
