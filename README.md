@@ -1,7 +1,7 @@
 ### 👋 Introduce Myself
 #### 성장을 갈망하는 개발자 정재현입니다. [기사 보기](https://ec-choi.tistory.com/5)
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1592c07d0e9980539ca5c2a69727ab20)
 ### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
 - [[SSAFY] SSAFY 12기에서 가장 많이 들었던 질문: 프론트엔드와 백엔드의 Validation, 둘 다 필요한가?](https://hyeonni.tistory.com/104)
