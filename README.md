@@ -9,7 +9,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1592c07d0e9980539ca5c2a69727ab20)
 ### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
-- [[Code Review] 코드 리뷰 경험 공유 및 리뷰를 원하는 이유] (https://hyeonni.tistory.com/107)
+- [[Code Review] 코드 리뷰 경험 공유 및 리뷰를 원하는 이유](https://hyeonni.tistory.com/107)
 - [[객체지향] 객체지향 코드로 리팩토링 - starcraft console game 1탄 (게임 소개 및 코드 소개)](https://hyeonni.tistory.com/106)
 - [[DOSI:RAK] “DOSI:RAK 서비스 개발 : Spring EventListener로 객체지향 설계 문제 해결하기”](https://hyeonni.tistory.com/105)
 - [[SSAFY] SSAFY 12기에서 가장 많이 들었던 질문: 프론트엔드와 백엔드의 Validation, 둘 다 필요한가?](https://hyeonni.tistory.com/104)
