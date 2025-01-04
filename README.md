@@ -5,8 +5,6 @@
 - 내 코드를 읽는 사람들이 잘 이해할 수 있도록 '**가독성**'과 '**명확성**'을 신경 쓰고 적극적으로 관리하려고 노력합니다.
 - '**함께**'의 힘을 알고, 소통과 효율성의 긍정적 관계를 믿는 개발자입니다.
 
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1592c07d0e9980539ca5c2a69727ab20)
 ### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
 - [[Solitour] 비용과 성능의 트레이드오프](https://hyeonni.tistory.com/101)
