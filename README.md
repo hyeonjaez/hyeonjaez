@@ -31,12 +31,5 @@
 ### 🏅 AWARDS
 - **2024 ICT콤플렉스 제 13회 SW개발 공모전 [피우다 프로젝트] 장려상**
 
-### 📝 PUBLICATIONS
-- **2022 한국정보통신학회 춘계종합학술대회**  
-  [중고차 가격 예측을 위한 영향요인 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11078053)
-
-### Code Review
-- 코드 리뷰 맡기고 싶으신 분, 스터디 하고 싶으신 분은 **jhjh0022@naver.com** 에 문의 주세요! 언제든 코드리뷰는 환영입니다.
-
 ---
 [![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
