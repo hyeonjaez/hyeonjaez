@@ -11,6 +11,7 @@
 - [[DOSI:RAK] “DOSI:RAK 서비스 개발 : Spring EventListener로 객체지향 설계 문제 해결하기”](https://hyeonni.tistory.com/105)
 - [[Solitour] 성능 vs. 코드 가독성의 갈림길](https://hyeonni.tistory.com/90)
 - [[Agarang] 지금까지 내가 잘 못 알고 있었던 점 (1) - 문제제기](https://hyeonni.tistory.com/108)
+- [[Agarang] 지금까지 내가 잘 못 알고 있었던 점 (2) - 아키텍처 재구성](https://hyeonni.tistory.com/110)
 
 ### 🛠️ **Tech Stacks**
 
