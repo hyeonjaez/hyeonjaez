@@ -7,7 +7,7 @@
 
 ### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
-- [[Solitour] 비용과 성능의 트레이드오프](https://hyeonni.tistory.com/101)
+- [[DOSI:RAK] application.properties, application.yml 보안 관리와 협업 효율성 높이기](https://hyeonni.tistory.com/103)
 - [[DOSI:RAK] “DOSI:RAK 서비스 개발 : Spring EventListener로 객체지향 설계 문제 해결하기”](https://hyeonni.tistory.com/105)
 - [[Solitour] 성능 vs. 코드 가독성의 갈림길](https://hyeonni.tistory.com/90)
 - [[Agarang] 지금까지 내가 잘 못 알고 있었던 점 (1) - 문제제기](https://hyeonni.tistory.com/108)
