@@ -7,15 +7,10 @@
 
 ### Blog Posts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hyeonni.tistory.com/)
-- [개발자로의 전향 (1) - 처음으로 내 선택이었던 공부, 그게 개발이었다](https://hyeonni.tistory.com/116)
-- [개발자로의 전향 (2) - 개발은 삶과 닮아 있다](https://hyeonni.tistory.com/117)
-- [개발자로서의 가치관 - 함께, 그리고 긍정적인 영향](https://hyeonni.tistory.com/118)
 
 ### 📖 EDUCATION
-- **NHN Academy 3 `2023.09` ~ `2024.03`**
 - **SSAFY 12 `2024.07` ~ `2024.11`**
 
 ### 🏅 AWARDS
 - **2024 ICT콤플렉스 제 13회 SW개발 공모전 [피우다 프로젝트] 장려상**
 - **2025 SSAFY 12기 2학기 공통 프로젝트 최우수상**
-
